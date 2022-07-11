@@ -1,10 +1,8 @@
 # WeLoveMovies Frontend Application
 
-This is the Front End Application for the WeLoveMovies project. Follow the instructions below.
+##This is the Front End Application for the WeLoveMovies project. 
 
-## Installation
+You can try it out {here}:(http://we-love-movies-client-side.vercel.app/)
 
-1. Fork / clone this repository.
-1. Run `npm install`.
 
-Use `npm start` to run the application. If you deploy this application, create a `.env.production` file similar to the `.env.development` file.
+![Screen Shot 2022-07-11 at 2 43 42 PM](https://user-images.githubusercontent.com/97245102/178335993-a6a97ca9-3b57-41f0-81da-057a56808ce6.png)
